@@ -25,4 +25,14 @@
 
 ---
 
+### 🚀 My Projects:  
+#### **Roblox Studio Games**  
+- 🎯 [**Echo DCO**](https://www.roblox.com/games/92056477765493/Echo-obby-Difficulty-chart) – Difficulty Chart Obby, where you fire photons to reveal hidden paths.  
+- 🌍 [**Landspire**](https://www.roblox.com/games/120804445365742/Landspire-DRAFT) – A world with **fully procedural terrain generation** using my custom noise algorithm.  
+- 🔻 [**Victim**](https://www.roblox.com/games/113138281627242/Victim-DEV) – A strategy game where you **engineer viruses** by fusing, modifying, or removing cells to create unique effects.  
+
+🔹 More projects coming soon... 🚧  
+
+---
+
 📌 *Last updated:* **08.03.2025 (18:40)**  
