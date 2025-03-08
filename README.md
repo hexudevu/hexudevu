@@ -18,10 +18,17 @@
 
 ---
 
+### 💼 Freelance & Contributions:
+- ✅ Actively taking commissions on *FunPay* for **Roblox Studio** scripting and development.  
+- 🔧 Created multiple **useful modules and tools** for **Roblox Studio**, enhancing workflow and game mechanics.  
+
+---
+
 ### 🎮 Fun Facts:
 1️⃣ I have worked on multiple projects in *Roblox Studio*  
 2️⃣ I love working on game development  
-3️⃣ (Waiting for a third fact... :-3)  
+3️⃣ My brain runs on tea & Lua scripts ☕💻
+4️⃣ (Waiting for a fourth fact... :-3)  
 
 ---
 
@@ -35,4 +42,6 @@
 
 ---
 
+![*GitHub Stats*](https://github-readme-stats.vercel.app/api?username=hexudevu&show_icons=true&theme=dark)
+![*Top Langs*](https://github-readme-stats.vercel.app/api/top-langs/?username=hexudevu&layout=compact&theme=dark)
 📌 *Last updated:* **08.03.2025 (18:40)**  
