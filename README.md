@@ -41,7 +41,9 @@
 🔹 More projects coming soon... 🚧  
 
 ---
-
 ![*GitHub Stats*](https://github-readme-stats.vercel.app/api?username=hexudevu&show_icons=true&theme=dark)
+---
 ![*Top Langs*](https://github-readme-stats.vercel.app/api/top-langs/?username=hexudevu&layout=compact&theme=dark)
-📌 *Last updated:* **08.03.2025 (18:40)**  
+---
+
+📌 *Last updated:* **08.03.2025 (19:00)**  
