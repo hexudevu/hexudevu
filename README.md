@@ -1,28 +1,28 @@
 ### hi! i'm @hexudevu >.<
 
-✓ My primary goal is game dev, but i'm also experimenting and interested in neural networks and AI.
+✔ **Game Developer & AI Enthusiast**  
+✔ Currently learning *C#* and *Unity*  
+✔ Open to collaborations in AI, game development, and data science  
 
-✓ I'm learning *C#* and *Unity* right now.
+**Pronouns:** *he/him*  
+**Languages:** Russian, English, and a bit of Japanese  
 
-✓ I’m looking to collaborate on AI projects, game development, and data science.
+📬 **Contact:** [@hexudevu](https://t.me/hexudevu)  
 
-✓ Pronous: *he/him*
+---
 
-✓ Languages: [Russian], English and some-some Japan
+### 🛠 Tech Stack:
+- **Programming:** Python, C#, Lua (Luau)  
+- **Libraries & Tools:** NumPy, OpenCV, Pygame  
+- **Game Development:** Unity (C#), Roblox Studio (Luau)  
 
-📬 telegram: [@hexudevu](https://t.me/hexudevu) 
+---
 
-› **my stack:** python, numpy, opencv, pygame, c#, unity, lua (luau)  
+### 🎮 Fun Facts:
+1️⃣ I have worked on multiple projects in *Roblox Studio*  
+2️⃣ I love working on game development  
+3️⃣ (Waiting for a third fact... :-3)  
 
-› **gamedev:** roblox (luau), unity (c#)  
+---
 
-***Some facts:***
-* F.Fact #0: I have worked on many projects at Roblox Studio
-* F.Fact #1: I love work on games
-* F.Fact #2: *None*
-
-<!---
-
-08.03.2025 (14:04)
-
---->
+📌 *Last updated:* **08.03.2025 (18:40)**  
