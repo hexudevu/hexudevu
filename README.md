@@ -8,9 +8,11 @@
 
 ✓ Pronous: *he/him*
 
+✓ Languages: [Russian], English and some-some Japan
+
 📬 telegram: [@hexudevu](https://t.me/hexudevu) 
 
-› **my stack:** python, numpy, opencv, c#, lua (luau)  
+› **my stack:** python, numpy, opencv, pygame, c#, unity, lua (luau)  
 
 › **gamedev:** roblox (luau), unity (c#)  
 
