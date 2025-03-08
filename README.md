@@ -6,16 +6,18 @@
 
 ✓ I’m looking to collaborate on AI projects, game development, and data science.
 
+✓ Pronous: *he/him*
+
 📬 telegram: [@hexudevu](https://t.me/hexudevu) 
 
 › **my stack:** python, numpy, opencv, c#, lua (luau)  
 
 › **gamedev:** roblox (luau), unity (c#)  
 
-✓ Pronous: *he/him*
-
-* F.Fact: I have worked on many projects at Roblox Studio
-* F.Fact #2:
+***Some facts:***
+* F.Fact #0: I have worked on many projects at Roblox Studio
+* F.Fact #1: I love work on games
+* F.Fact #2: *None*
 
 <!---
 
